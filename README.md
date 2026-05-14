@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0f2027,50:203a43,100:2c5364&amp;text=Leon%20Dias&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Advanced%20Computing%20%26%20Commerce%20%40%20University%20of%20Sydney&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Leon Dias Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:020617,50:0f172a,100:111827&amp;text=Leon%20Dias&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Advanced%20Computing%20and%20Commerce%20at%20University%20of%20Sydney&amp;descSize=18&amp;descColor=c9d1d9&amp;descAlignY=58&amp;animation=fadeIn" alt="Leon Dias Banner" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ## Featured Projects
 
 ### 🗺️ WasteX — Waste Management NZ
-> GPS-powered waste collection platform | `HTML · CSS · JS · Python · SQL`
+> GPS-powered waste collection platform | `HTML · CSS · JavaScript · Python · SQL`
 
 - Built a GPS collection interface using Leaflet.js
 - Designed dynamic databases to track collection items end-to-end
@@ -66,5 +66,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leondias06&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Leon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leondias06&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800" alt="Leon GitHub stats" />
 </p>
