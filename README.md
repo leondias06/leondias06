@@ -62,7 +62,6 @@
 
 <div align="center">
 
-![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondias06&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondias06&show_icons=true&theme=radical)
 
 </div>
