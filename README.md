@@ -13,7 +13,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -28,37 +28,37 @@
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 🗺️ WasteX — Waste Management NZ
 > GPS-powered waste collection platform | `HTML · CSS · JS · Python · SQL `
 
-- 📍 GPS collection interface built with Leaflet.js
-- 🗃️ Dynamic databases tracking every collection item end-to-end
-- 🤝 Delivered after multiple on-site sessions with the WMNZ South Island manager
-- ♻️ Solved a operational problem for NZ's waste management workforce
+-  GPS collection interface built with Leaflet.js
+-  Dynamic databases tracking every collection item end-to-end
+-  Delivered after multiple on-site sessions with the WMNZ South Island manager
+-  Solved a operational problem for NZ's waste management workforce
 
 ### 🤖 AVR Maze Robot
 > Autonomous embedded robot | `C · AVR Microcontroller`
 
-- 🧠 Real-time obstacle detection using IR and ultrasonic sensors
-- ⚙️ Motor calibration for precise turns and wall avoidance
-- ✅ Refined navigation logic to complete maze-solving objectives reliably
+-  Real-time obstacle detection using IR and ultrasonic sensors
+-  Motor calibration for precise turns and wall avoidance
+-  Refined navigation logic to complete maze-solving objectives reliably
 ---
 
-## 🏅 Certifications & Awards
+##  Certifications & Awards
 
 | Award | Issuer | Year |
 |---|---|---|
-| 🥇 Duke of Edinburgh — Gold | The Hillary Commission | 2024 |
-| 🏆 NZ Scholarship — Digital Technology | NZQA | 2024 |
-| 🎓 Leadership Certification | HarvardX & Our Leadership Hub | 2024 |
-| 🤖 AI Scholars Program | Inspirit AI | 2024 |
-| 🐍 Python for Everybody | Coursera | 2024 |
+|  Duke of Edinburgh — Gold | The Hillary Commission | 2024 |
+|  NZ Scholarship — Digital Technology | NZQA | 2024 |
+|  Leadership Certification | HarvardX & Our Leadership Hub | 2024 |
+|  AI Scholars Program | Inspirit AI | 2024 |
+|  Python for Everybody | Coursera | 2024 |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
