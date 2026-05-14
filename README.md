@@ -1,5 +1,5 @@
-=<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:020617,50:0f172a,100:111827&amp;text=Leon%20Dias&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Advanced%20Computing%20and%20Commerce%20at%20University%20of%20Sydney&amp;descSize=18&amp;descColor=c9d1d9&amp;descAlignY=58&amp;animation=fadeIn" alt="Leon Dias Banner" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:020617,50:0f172a,100:111827&amp;text=Leon%20Dias&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Second-year%20Advanced%20Computing%20and%20Commerce%20student%20at%20University%20of%20Sydney&amp;descSize=18&amp;descColor=c9d1d9&amp;descAlignY=58&amp;animation=fadeIn" alt="Leon Dias Banner" />
 </p>
 
 <p align="center">
