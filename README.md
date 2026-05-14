@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Leon%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Advanced%20Computing%20%26%20Commerce%20%40%20University%20of%20Sydney&descSize=18&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0f2027,50:203a43,100:2c5364&amp;text=Leon%20Dias&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Advanced%20Computing%20%26%20Commerce%20%40%20University%20of%20Sydney&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Leon Dias Banner" />
 </p>
 
 <p align="center">
-  <b>Published Author · Real-world builder · Open to internships</b>
+  <b>Published Author · Real-world Builder · Open to Internships</b>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/leon-d-062412211">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:leondias2006@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
 </p>
+
 ---
 
 ## Tech Stack
@@ -31,40 +32,39 @@
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 ### 🗺️ WasteX — Waste Management NZ
-> GPS-powered waste collection platform | `HTML · CSS · JS · Python · SQL `
+> GPS-powered waste collection platform | `HTML · CSS · JS · Python · SQL`
 
--  GPS collection interface built with Leaflet.js
--  Dynamic databases tracking every collection item end-to-end
--  Delivered after multiple on-site sessions with the WMNZ South Island manager
--  Solved a operational problem for NZ's waste management workforce
+- Built a GPS collection interface using Leaflet.js
+- Designed dynamic databases to track collection items end-to-end
+- Developed after multiple on-site sessions with the WMNZ South Island manager
+- Helped solve an operational workflow problem for New Zealand’s waste management workforce
 
 ### 🤖 AVR Maze Robot
 > Autonomous embedded robot | `C · AVR Microcontroller`
 
--  Real-time obstacle detection using IR and ultrasonic sensors
--  Motor calibration for precise turns and wall avoidance
--  Refined navigation logic to complete maze-solving objectives reliably
+- Implemented real-time obstacle detection using IR and ultrasonic sensors
+- Calibrated motors for precise turns and wall avoidance
+- Refined navigation logic to complete maze-solving objectives reliably
+
 ---
 
-##  Certifications & Awards
+## Certifications & Awards
 
 | Award | Issuer | Year |
 |---|---|---|
-|  Duke of Edinburgh — Gold | The Hillary Commission | 2024 |
-|  NZ Scholarship — Digital Technology | NZQA | 2024 |
-|  Leadership Certification | HarvardX & Our Leadership Hub | 2024 |
-|  AI Scholars Program | Inspirit AI | 2024 |
-|  Python for Everybody | Coursera | 2024 |
+| Duke of Edinburgh — Gold | The Hillary Commission | 2024 |
+| NZ Scholarship — Digital Technology | NZQA | 2024 |
+| Leadership Certification | HarvardX & Our Leadership Hub | 2024 |
+| AI Scholars Program | Inspirit AI | 2024 |
+| Python for Everybody | Coursera | 2024 |
 
 ---
-
-##  GitHub Stats
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leondias06&show_icons=true&theme=tokyonight&hide_border=true" alt="Leon's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leondias06&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="Leon's GitHub stats" />
 </p>
