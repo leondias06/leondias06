@@ -60,8 +60,8 @@
 
 ##  GitHub Stats
 
-<div align="center">
+## GitHub Stats
 
-![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leondias06&show_icons=true&theme=radical)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leondias06&show_icons=true&theme=tokyonight&hide_border=true" alt="Leon's GitHub stats" />
+</p>
