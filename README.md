@@ -5,10 +5,6 @@
 <br/>
 
 <p align="center">
-  <b>Published Author · Aspiring Student · Open to Internships</b>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/leon-d-062412211">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
