@@ -1,16 +1,19 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Leon%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Advanced%20Computing%20%26%20Commerce%20%40%20University%20of%20Sydney&descSize=18&descAlignY=58&animation=fadeIn" />
+</p>
 
-# Leon Dias 
+<p align="center">
+  <b>Published Author · Real-world builder · Open to internships</b>
+</p>
 
-### Advanced Computing & Commerce @ University of Sydney
-
-**Published Author · Real-world builder · Open to internships**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leon-d-062412211)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leondias2006@outlook.com)
-
-</div>
-
+<p align="center">
+  <a href="https://linkedin.com/in/leon-d-062412211">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:leondias2006@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## Tech Stack
