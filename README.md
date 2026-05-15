@@ -74,32 +74,12 @@
 
 ---
 
-<br/>
-
-## Certifications & Awards
-
-<br/>
-
-| Award | Issuer | Year |
-|---|---|---|
-| Duke of Edinburgh — Gold | The Hillary Commission | 2024 |
-| NZ Scholarship — Digital Technology | NZQA | 2024 |
-| Leadership Certification | HarvardX & Our Leadership Hub | 2024 |
-| AI Scholars Program | Inspirit AI | 2024 |
-| Python for Everybody | Coursera | 2024 |
-
-<br/>
-
----
-
-<br/>
 
 ## GitHub Stats
 
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leondias06&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800" alt="Leon GitHub stats" />
-</p>
-
+<div align="center">
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=leondias06&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=leondias06&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
 <br/>
